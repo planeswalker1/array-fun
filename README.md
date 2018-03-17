@@ -1,12 +1,12 @@
 # _array-fun_
 
-#### _A website where a user can input numbers and get back data, 03.11.2018_
+#### _A website where a user can input numbers and get back data, 03.16.2018_
 
 #### By _**planeswalker1**_
 
 ## Description
 
-_This page has been created to get and manipulate data._
+_This page has been created to mimic a for loop. It will ask for 3 inputs with prompt and return an array of the looped numbers, the sum of that array, and another array with the looped numbers converted into binary._
 
 ## Setup/Installation Requirements
 
